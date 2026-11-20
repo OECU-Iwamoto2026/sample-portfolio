@@ -1,11 +1,11 @@
 addMember({
-  id: "enji",
-  name: "圓次一彦",
-  kana: "えんじ かずひこ",
+  id: "152",
+  name: "152",
+  kana: "",
   color: "coral",
-  avatar: "assets/enji-avatar.png",
-  avatarAlt: "釣り竿を持った圓次一彦のアバター",
-  heroAvatar: "assets/enji-avatar.png",
+  avatar: "assets/152-avatar.png",
+  avatarAlt: "釣り竿を持った152のアバター",
+  heroAvatar: "assets/152-avatar.png",
   heroSize: "wide",
   intro: "アウトドアとインドア両方大好きです。",
   details: [
