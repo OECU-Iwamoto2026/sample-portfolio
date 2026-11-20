@@ -1,11 +1,11 @@
 addMember({
-  id: "ryunosuke",                       // ファイル名・_list.js と同じID
-  name: "中邨隆之介",
-  kana: "なかむらりゅうのすけ",
+  id: "140",                             // ファイル名・_list.js と同じID
+  name: "140",
+  kana: "",
   color: "green",                        // green / blue / coral / yellow
-  avatar: "assets/ryunosuke-avatar.png", // メンバー紹介カードの画像
-  avatarAlt: "中邨隆之介さんのアバター",
-  heroAvatar: "assets/ryunosuke-avatar.png", // トップの集合ビジュアル用（省略すると avatar を使う）
+  avatar: "assets/140-avatar.png",       // メンバー紹介カードの画像
+  avatarAlt: "140のアバター",
+  heroAvatar: "assets/140-avatar.png",   // トップの集合ビジュアル用（省略すると avatar を使う）
   heroSize: "primary",                   // normal / primary / tall / wide
   intro: "MBTIは運動家（ENFP）です。",
   details: [

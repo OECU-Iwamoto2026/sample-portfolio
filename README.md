@@ -13,9 +13,9 @@ HTML / CSS / JavaScript だけで作っているので、ビルドは不要で�
 ├── members/
 │   ├── _list.js        ★ メンバーの一覧（表示する順番）
 │   ├── _template.js    新メンバー用のひな形
-│   ├── ryunosuke.js    ★ メンバー1人につき1ファイル
-│   ├── yoshimasa.js
-│   └── enji.js
+│   ├── 140.js          ★ メンバー1人につき1ファイル
+│   ├── 066.js
+│   └── 152.js
 └── assets/             アバター・作品の画像
 ```
 
